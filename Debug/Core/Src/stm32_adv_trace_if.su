@@ -1,0 +1,4 @@
+stm32_adv_trace_if.c:65:25:UART_Init	16	static
+stm32_adv_trace_if.c:72:25:UART_DeInit	4	static
+stm32_adv_trace_if.c:79:25:UART_StartRx	16	static
+stm32_adv_trace_if.c:86:25:UART_TransmitDMA	16	static
